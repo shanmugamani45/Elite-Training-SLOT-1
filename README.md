@@ -20,19 +20,6 @@ A high-level overview of the specific logic and algorithms practiced during this
 | **Jan 21 - 30, 2026** | Programming Fundamentals | Output formatting, conditional statements, looping, mathematical series, number crunching, and pattern printing. |
 | **Feb 1 - 6, 2026** | Array Logic & Manipulation | 1D Array traversal, calculating array sums, validating Monotonic arrays, sliding windows (subarrays), and array rearrangement. |
 
-### Phase 2: Advanced Logic & Algorithms
-| Date | Broad Topic | Specific Concepts & Sub-Topics Covered |
-| :--- | :--- | :--- |
-| **Feb 25, 2026** | 2D Arrays & Matrices | Matrix identity, element searching, row/col maximums, and calculating sums. |
-| **Feb 26, 2026** | Advanced Matrices | Validating specific matrix types (Toeplitz, Sparse, Scalar, Diagonal), transposition, and boundary traversal. |
-| **Feb 27, 2026** | Matrix Patterns & Math | Generating concentric square and spiral patterns in 2D arrays, and matrix multiplication. |
-| **Mar 2, 2026** | String Manipulations | String equality, character searching, vowel replacement, special character counting, and Anagrams/Isograms. |
-| **Mar 3, 2026** | String Fundamentals | String slicing, alphanumeric validation, reversing, splitting, ASCII extraction, and Palindrome checks. |
-| **Mar 4, 2026** | Advanced Strings | In-place string reversal, CamelCase conversion, case toggling, character frequencies, and digit extraction. |
-| **Mar 6, 2026** | 1D Arrays & Math | Array prefix sums, concatenation/shuffling, counting smaller elements, sorting squares, and duplicate detection. |
-| **Mar 10, 2026** | Strings & Binary Search | Validating Pangrams, frequency mapping, Binary Search ($O(\log N)$), and constrained string reversals. |
-| **Mar 11, 2026** | Array & String Logic | Replacing array elements with the greatest on the right, removing consecutive vowels, and string reviews. |
-
 ---
 
 ## 📅 Daily Progress Tracker
@@ -55,20 +42,5 @@ A high-level overview of the specific logic and algorithms practiced during this
 | **Feb 4, 2026** | Array Word Problems & Simulations | HackerRank | ~10 | [View PDF](./4%20FEB%2026.pdf) |
 | **Feb 5, 2026** | Subarrays & Sliding Window | LeetCode | ~10 | [View PDF](./5%20FEB%2026.pdf) |
 | **Feb 6, 2026** | Array Rearrangement & Sorting | HackerRank | ~10 | [View PDF](./6%20FEB%2026.pdf) |
-
-### Slot 2 (Phase 2)
-*Click the links below to view the formatted Markdown code files.*
-
-| Date | Focus Area | Platform | Questions Solved | Link to Code |
-| :--- | :--- | :--- | :---: | :--- |
-| **Feb 25, 2026** | 2D Arrays & Matrix Operations | HackerRank | 10 | [View Solutions](./FEB%2025%202026.md) |
-| **Feb 26, 2026** | Advanced Matrices (Toeplitz, Sparse) | HackerRank | 10 | [View Solutions](./FEB%2026%202026.md) |
-| **Feb 27, 2026** | Spiral Patterns & Matrix Math | HackerRank | 3 | [View Solutions](./FEB%2027%202026.md) |
-| **Mar 2, 2026** | String Manipulations & Anagrams | HackerRank | 7 | [View Solutions](./MAR%202%202026.md) |
-| **Mar 3, 2026** | String Fundamentals | OneCompiler | 20 | [View Solutions](./MAR%203%202026.md) |
-| **Mar 4, 2026** | Advanced Strings & Toggles | HackerRank | 13 | [View Solutions](./MAR%204%202026.md) |
-| **Mar 6, 2026** | Arrays & Running Sums | LeetCode | 9 | [View Solutions](./MAR%206%202026.md) |
-| **Mar 10, 2026** | Strings & Binary Search | LeetCode / HR | 8 | [View Solutions](./MAR%2010%202026.md) |
-| **Mar 11, 2026** | Frequencies & Array Replacements | HackerRank | 6 | [View Solutions](./MAR%2011%202026.md) |
 
 ---
